@@ -1,0 +1,25 @@
+{"embeddings" : {"Google News": "embeddings/glove.840B.300d.txt"},"tests":
+		{
+			"Handsome vs Beautiful / Male vs Female":{
+				"X":[
+					"male", "proud", "adopts", "Major", "escaped", "jailed", "expose", "undergoes", "stabs", "complete", "capture", "encourages", 
+					 "alcoholic", "honest", "succeeds", "defeat", "assassinate", "hunts", "look-alike", "destroys", "travels", "Frustrated", "fight", 
+					 "close", "powerful", "sung", "hired", "earns", "changed", "demands", "completes", "build", "arrests", "surprised", "terrorist", 
+					 "criminal", "entire", "imprisoned", "pose", "threatened", "expresses", "eccentric", "apprehend", "enrages", "future", "stabbed", 
+					 "obtain", "forces", "impersonate", "angers"
+				],
+				"Y":[
+					"female", "beautiful", "lovely", "elope", "betrayed", "tribal", "raped", "Christian", "dance", "humiliates", "pregnant", 
+					 "attractive", "reject", "testify", "intimate", "traditional", "prays", "grand", "related", "wear", "single", "confirms", 
+					 "connected", "switch", "seduces", "places", "unmarried", "heartbroken", "molest", "stuck", "dumb", "vanishes", "Devi", 
+					 "cuts", "threaten", "placed", "intelligent", "worried", "posted", "matured", "challenged", "eloped", "dressed", "gotten", 
+					 "scared", "surrounded", "exposed", "miserable", "accompany", "embraces"],
+				"A":[
+					"male", "man", "boy", "brother", "he", "him", "his", "son", "father", "uncle", "grandfather"
+				],
+				"B":[
+					"female", "woman", "girl", "sister", "she", "her", "hers", "daughter", "mother", "aunt", "grandmother"
+				]
+			}
+		}
+	}
